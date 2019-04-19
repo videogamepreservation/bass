@@ -1,0 +1,6 @@
+c:\x32vm\lib\cx.obj start replay cd_intro scr_int function keyboard intro logic mousesys sprites text music control +
+			initiali timer mouse lists screen 0compact 1compact 2compact 3compact 4compact 5compact 6compact +
+			ar_dbgc memory grid decodee debug rn_deco voc_asm wanim voc_c +
+			layers main debugc disk error autoroot +
+			finish , sky.exe , sky , c:\x32vm\lib\x32v d:\zordos\libdos\zps.lib ,  , /M ;
+
